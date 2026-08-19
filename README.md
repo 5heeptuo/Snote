@@ -9,7 +9,7 @@
 |---|---|---|
 | `Snote-osx-arm64.dmg` | macOS (Apple Silicon / arm64) | ~54 MB |
 | `StickyNotes-Setup-0.1.0-win-x64.exe` | Windows (x64) NSIS installer | ~50 MB |
-| `SHA256SUMS` | checksums for the two installers | — |
+
 
 ## Install
 
