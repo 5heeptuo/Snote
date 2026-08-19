@@ -15,6 +15,19 @@ Upload these files to the GitHub release:
   may ask to "Run anyway"), shortcuts are created on Desktop and Start Menu;
   uninstall via "Programs and Features".
 
+
+## Keyboard Shortcuts
+
+| Shortcut | Action |
+|---|---|
+| `Ctrl/Cmd + N` | Create a new note |
+| `Ctrl/Cmd + F` | Focus search |
+| `Ctrl/Cmd + ,` | Open Settings |
+| `Ctrl/Cmd + W` | Close the current window |
+| `Ctrl/Cmd + Q` | Quit StickyNotes |
+
+> On macOS, use **Command (⌘)**. On Windows, use **Ctrl**.
+
 ## Notes
 
 - Both builds are self-contained (no runtime install needed).
