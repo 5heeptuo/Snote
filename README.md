@@ -1,4 +1,4 @@
-# StickyNotes v0.1.0 — Release Assets
+# StickyNotes v1.0.0 — Release Assets
 
 ## Download
 
