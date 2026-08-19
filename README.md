@@ -27,7 +27,7 @@
 | `Ctrl/Cmd + F` | Focus search |
 | `Ctrl/Cmd + ,` | Open Settings |
 | `Ctrl/Cmd + W` | Close the current window |
-| `Ctrl/Cmd + Q` | Quit StickyNotes |
+| `Ctrl/Cmd + Q` | Quit Snotes |
 
 > On macOS, use **Command (⌘)**. On Windows, use **Ctrl**.
 
