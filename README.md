@@ -1,5 +1,8 @@
 # StickyNotes v0.1.0 — Release Assets
 
+## Download
+
+[![Download Snote](https://img.shields.io/badge/Download-Snote%20v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/5heeptuo/Snote/releases/tag/v1.0.0)
 Upload these files to the GitHub release:
 
 | File | Platform | Size |
